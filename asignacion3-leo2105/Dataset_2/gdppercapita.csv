@@ -1,0 +1,193 @@
+RANK-GDP,PAIS,INT
+1,'Qatar',127.660
+2,'Luxembourg',104.003
+—,'Macau',95.151
+3,'Singapore',87.855
+4,'Brunei',76.884
+5,'Kuwait',71.887
+6,'Norway',69.249
+7,'Ireland',69.231
+8,'United Arab Emirates',67.871
+9,'Switzerland',59.561
+10,'San Marino',59.058
+—,'Hong Kong',58.322
+11,'United States',57.436
+12,'Saudi Arabia',55.158
+13,'Netherlands',51.049
+14,'Bahrain',50.704
+15,'Sweden',49.836
+16,'Iceland',49.136
+17,'Australia',48.899
+18,'Germany',48.111
+—,'Taiwan',48.095
+19,'Austria',48.005
+20,'Denmark',47.985
+21,'Oman',46.698
+22,'Canada',46.437
+23,'Belgium',45.047
+24,'United Kingdom',42.481
+25,'France',42.314
+26,'Finland',42.165
+27,'Japan',41.275
+28,'Malta',39.834
+29,'Equatorial Guinea',38.639
+—,'Puerto Rico',38.393
+30,'South Korea',37.740
+31,'New Zealand',37.294
+32,'Italy',36.833
+33,'Spain',36.416
+34,'Israel',35.179
+35,'Cyprus',34.970
+36,'Czech Republic',33.232
+37,'Slovenia',32.085
+38,'Trinidad and Tobago',31.870
+39,'Slovakia',31.339
+40,'Lithuania',29.972
+41,'Estonia',29.313
+42,'Portugal',28.933
+43,'Poland',27.764
+44,'Seychelles',27.602
+45,'Hungary',27.482
+46,'Malaysia',27.267
+47,'Greece',26.669
+48,'Russia',26.490
+49,'Saint Kitts and Nevis',25.940
+50,'Latvia',25.710
+51,'Antigua and Barbuda',25.157
+52,'Kazakhstan',25.145
+53,'Turkey',24.912
+54,'Bahamas  The',24.555
+55,'Chile',24.113
+56,'Panama',23.024
+57,'Croatia',22.795
+58,'Romania',22.348
+59,'Uruguay',21.527
+60,'Mauritius',20.422
+61,'Bulgaria',20.327
+62,'Argentina',20.047
+63,'Gabon',19.056
+64,'Mexico',18.938
+65,'Lebanon',18.525
+66,'Iran',18.077
+67,'Belarus',18.000
+68,'Iraq',17.944
+69,'Turkmenistan',17.485
+70,'Azerbaijan',17.439
+71,'Barbados',17.100
+72,'Botswana',17.042
+73,'Thailand',16.888
+74,'Montenegro',16.643
+75,'Costa Rica',16.436
+—,'World'  '[7]'  '[8]',16.318
+76,'Dominican Republic',16.049
+77,'Maldives',15.553
+78,'China',15.399
+79,'Palau',15.319
+80,'Brazil',15.242
+81,'Algeria',15.026
+82,'Macedonia',14.597
+83,'Serbia',14.493
+84,'Colombia',14.130
+85,'Grenada',14.116
+86,'Suriname',13.988
+87,'Venezuela',13.761
+88,'South Africa',13.225
+89,'Peru',12.903
+90,'Egypt',12.554
+91,'Jordan',12.278
+92,'Mongolia',12.275
+93,'Sri Lanka',12.262
+94,'Albania',11.840
+95,'Saint Lucia',11.783
+96,'Indonesia',11.720
+97,'Tunisia',11.634
+98,'Nauru',11.539
+99,'Dominica',11.375
+100,'Namibia',11.290
+101,'Saint Vincent and the Grenadines',11.271
+102,'Ecuador',11.109
+103,'Bosnia and Herzegovina',10.958
+—,'Kosovo'  '[9]'  '[10]',10.235
+104,'Georgia',10.044
+105,'Swaziland',9.776
+106,'Paraguay',9.396
+107,'Fiji',9.268
+108,'Jamaica',8.976
+109,'El Salvador',8.909
+110,'Libya',8.678
+111,'Armenia',8.621
+112,'Morocco',8.330
+113,'Ukraine',8.305
+114,'Bhutan',8.227
+115,'Belize',8.220
+116,'Guatemala',7.899
+117,'Guyana',7.873
+118,'Philippines',7.728
+119,'Bolivia',7.218
+120,'Angola',6.844
+121,'Congo  Rep.',6.676
+122,'Cape Verde',6.662
+123,'India',6.616
+124,'Uzbekistan',6.563
+125,'Vietnam',6.429
+126,'Nigeria',5.942
+127,'Myanmar',5.832
+128,'Laos',5.710
+129,'Samoa',5.553
+130,'Nicaragua',5.452
+131,'Tonga',5.386
+132,'Moldova',5.328
+133,'Honduras',5.271
+134,'Pakistan',5.106
+135,'Sudan',4.447
+136,'Ghana',4.412
+137,'Mauritania',4.328
+138,'Timor-Leste',4.187
+139,'Bangladesh',3.891
+140,'Zambia',3.880
+141,'Cambodia',3.737
+142,"Côte d'Ivoire",3.609
+143,'Lesotho',3.601
+144,'Tuvalu',3.567
+145,'Papua New Guinea',3.541
+146,'Kyrgyzstan',3.521
+147,'Djibouti',3.370
+148,'Kenya',3.361
+149,'Marshall Islands',3.301
+150,'Cameroon',3.249
+151,'Micronesia',3.234
+152,'Tanzania',3.080
+153,'São Tomé and Príncipe',3.072
+154,'Tajikistan',3.008
+155,'Vanuatu',2.631
+156,'Senegal',2.577
+157,'Nepal',2.479
+158,'Chad',2.445
+159,'Yemen',2.375
+160,'Mali',2.266
+161,'Benin',2.119
+162,'Uganda',2.068
+163,'Rwanda',1.977
+164,'Solomon Islands',1.973
+165,'Zimbabwe',1.970
+166,'Ethiopia',1.946
+167,'Afghanistan',1.919
+168,'Kiribati',1.823
+169,'Haiti',1.784
+170,'Burkina Faso',1.782
+171,'Guinea-Bissau',1.730
+172,'Sierra Leone',1.672
+173,'Gambia  The',1.667
+174,'South Sudan',1.657
+175,'Togo',1.550
+176,'Comoros',1.529
+177,'Madagascar',1.505
+178,'Eritrea',1.410
+179,'Guinea',1.265
+180,'Mozambique',1.215
+181,'Malawi',1.134
+182,'Niger',1.107
+183,'Liberia',855
+184,'Burundi',814
+185,'Congo  Dem. Rep.',773
+186,'Central African Republic',652

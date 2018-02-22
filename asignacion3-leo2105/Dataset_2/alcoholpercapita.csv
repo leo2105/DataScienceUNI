@@ -1,0 +1,192 @@
+RANK-OH,PAIS,TOTAL
+1,'Belarus',17.5
+2,'Moldova',16.8
+3,'Lithuania',15.4
+4,'Russia',15.1
+5,'Romania',14.4
+6,'Ukraine',13.9
+7,'Andorra',13.8
+8,'Hungary',13.3
+9,'Czech Republic',13
+10,'Slovakia',13
+11,'Portugal',12.9
+12,'Serbia',12.6
+13,'Grenada',12.5
+14,'Poland',12.5
+15,'Latvia',12.3
+16,'Finland',12.3
+17,'South Korea',12.3
+18,'France',12.2
+19,'Australia',12.2
+20,'Croatia',12.2
+21,'Ireland',11.9
+22,'Luxembourg',11.9
+23,'Germany',11.8
+24,'Slovenia',11.6
+25,'United Kingdom',11.6
+26,'Denmark',11.4
+27,'Bulgaria',11.4
+28,'Spain',11.2
+29,'Belgium',11
+30,'South Africa',11
+31,'New Zealand',10.9
+32,'Gabon',10.9
+33,'Namibia',10.8
+34,'Switzerland',10.7
+35,'Saint Lucia',10.4
+36,'Austria',10.3
+37,'Estonia',10.3
+38,'Greece',10.3
+39,'Kazakhstan',10.3
+40,'Canada',10.2
+41,'Nigeria',10.1
+42,'Netherlands',9.9
+43,'Uganda',9.8
+44,'Rwanda',9.8
+45,'Chile',9.6
+46,'Argentina',9.3
+47,'Burundi',9.3
+48,'United States',9.2
+49,'Cyprus',9.2
+50,'Sweden',9.2
+51,'Venezuela',8.9
+52,'Paraguay',8.8
+53,'Brazil',8.7
+54,'Sierra Leone',8.7
+55,'Montenegro',8.7
+56,'Belize',8.5
+57,'Cameroon',8.4
+58,'Botswana',8.4
+59,'Saint Kitts and Nevis',8.2
+60,'Guyana',8.1
+61,'Peru',8.1
+62,'Panama',8
+63,'Niue',8
+64,'Palau',7.9
+65,'Norway',7.7
+66,'Tanzania',7.7
+67,'Georgia',7.7
+68,'Uruguay',7.6
+69,'Angola',7.5
+70,'Laos',7.3
+71,'Japan',7.2
+72,'Mexico',7.2
+73,'Ecuador',7.2
+74,'Dominica',7.1
+75,'Iceland',7.1
+76,'Thailand',7.1
+77,'Bosnia and Herzegovina',7.1
+78,'São Tomé and Príncipe',7.1
+79,'Malta',7
+80,'Albania',7
+81,'Bahamas',6.9
+82,'Dominican Republic',6.9
+83,'Mongolia',6.9
+84,'Cape Verde',6.9
+85,'Barbados',6.8
+86,'Burkina Faso',6.8
+87,'Italy',6.7
+88,'Trinidad and Tobago',6.7
+89,'China',6.7
+90,'Macedonia',6.7
+91,'Saint Vincent and the Grenadines',6.6
+92,'Equatorial Guinea',6.6
+93,'Suriname',6.6
+94,'Vietnam',6.6
+95,'Lesotho',6.5
+96,'Haiti',6.4
+97,'Cook Islands',6.4
+98,'Colombia',6.2
+99,'Ivory Coast',6
+100,'Bolivia',5.9
+101,'Swaziland',5.7
+102,'Zimbabwe',5.7
+103,'Seychelles',5.6
+104,'Cambodia',5.5
+105,'Puerto Rico',5.4
+106,'Netherlands Antilles',5.4
+107,'Philippines',5.4
+108,'Costa Rica',5.4
+109,'Armenia',5.3
+110,'Cuba',5.2
+111,'Nicaragua',5
+112,'Jamaica',4.9
+113,'Ghana',4.8
+114,'Liberia',4.7
+115,'Uzbekistan',4.6
+116,'Chad',4.4
+117,'United Arab Emirates',4.3
+118,'Kyrgyzstan',4.3
+119,'India',4.3
+120,'Turkmenistan',4.3
+121,'Kenya',4.3
+122,'Ethiopia',4.2
+123,'Honduras',4
+124,'Guinea-Bissau',4
+125,'Zambia',4
+126,'Republic of the Congo',3.9
+127,'Guatemala',3.8
+128,'Central African Republic',3.8
+129,'North Korea',3.7
+130,'Sri Lanka',3.7
+131,'Mauritius',3.6
+132,'Samoa',3.6
+133,'Democratic Republic of the Congo',3.6
+134,'Nauru',3.5
+135,'Gambia',3.4
+136,'Federated States of Micronesia',3.3
+137,'El Salvador',3.2
+138,'Fiji',3
+139,'Papua New Guinea',3
+140,'Kiribati',3
+141,'Tajikistan',2.8
+142,'Israel',2.8
+143,'Sudan',2.7
+144,'Malawi',2.5
+145,'Lebanon',2.4
+146,'Azerbaijan',2.3
+147,'Mozambique',2.3
+148,'Togo',2.3
+149,'Nepal',2.2
+150,'Bahrain',2.1
+151,'Benin',2.1
+152,'Singapore',2
+153,'Turkey',2
+154,'Madagascar',1.8
+155,'Solomon Islands',1.7
+156,'Tonga',1.6
+157,'Tunisia',1.5
+158,'Tuvalu',1.5
+159,'Qatar',1.5
+160,'Vanuatu',1.4
+161,'Djibouti',1.3
+162,'Malaysia',1.3
+163,'Syria',1.2
+164,'Maldives',1.2
+165,'Mali',1.1
+166,'Eritrea',1.1
+167,'Algeria',1
+168,'Iran',1
+169,'Oman',0.9
+170,'Brunei',0.9
+171,'Morocco',0.9
+172,'Jordan',0.7
+173,'Bhutan',0.7
+174,'Guinea',0.7
+175,'Myanmar',0.7
+176,'Afghanistan',0.7
+177,'Senegal',0.6
+178,'Indonesia',0.6
+179,'Timor-Leste',0.6
+180,'Iraq',0.5
+181,'Somalia',0.5
+182,'Egypt',0.4
+183,'Niger',0.3
+184,'Yemen',0.3
+185,'Comoros',0.2
+186,'Saudi Arabia',0.2
+187,'Bangladesh',0.2
+188,'Kuwait',0.1
+189,'Libya',0.1
+190,'Mauritania',0.1
+191,'Pakistan',0.1
